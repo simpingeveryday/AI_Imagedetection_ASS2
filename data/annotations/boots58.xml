@@ -1,0 +1,38 @@
+<annotation>
+	<folder>soccer_players_with_football_boots</folder>
+	<filename>boots58.jpg</filename>
+	<path>C:\Users\seeho\google-images-download\images\soccer_players_with_football_boots\boots58.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>553</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>football boots</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>515</ymin>
+			<xmax>81</xmax>
+			<ymax>544</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>football boots</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>518</ymin>
+			<xmax>185</xmax>
+			<ymax>546</ymax>
+		</bndbox>
+	</object>
+</annotation>

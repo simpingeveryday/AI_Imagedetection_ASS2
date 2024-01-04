@@ -1,0 +1,26 @@
+<annotation>
+	<folder>guns</folder>
+	<filename>gun54.jpg</filename>
+	<path>C:\Users\seeho\google-images-download\images\guns\gun54.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>259</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>guns</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>72</ymin>
+			<xmax>186</xmax>
+			<ymax>142</ymax>
+		</bndbox>
+	</object>
+</annotation>

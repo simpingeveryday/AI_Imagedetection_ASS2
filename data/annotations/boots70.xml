@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nike_football_boots</folder>
+	<filename>boots70.jpg</filename>
+	<path>C:\Users\seeho\google-images-download\images\nike_football_boots\boots70.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1152</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>football boots</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>411</xmin>
+			<ymin>587</ymin>
+			<xmax>1437</xmax>
+			<ymax>1036</ymax>
+		</bndbox>
+	</object>
+</annotation>

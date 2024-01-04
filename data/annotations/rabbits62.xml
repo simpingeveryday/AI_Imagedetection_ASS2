@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rabbits</folder>
+	<filename>rabbits62.jpg</filename>
+	<path>C:\Users\seeho\google-images-download\images\rabbits\rabbits62.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rabbits</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>30</ymin>
+			<xmax>231</xmax>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+</annotation>
